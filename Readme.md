@@ -104,12 +104,8 @@ Custom objects created:
 
 **M. Bharath**  
 Salesforce Virtual Internship Program Participant  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] *(optional)*
+📧 [bharathbalu7231@gmail.com]  
+🔗 [www.linkedin.com/in/bharath-m-b8a456287]
 
 ---
-
-## 📄 License
-
-This project is part of a learning initiative and is intended for educational purposes under the Salesforce Virtual Internship Program. Not for commercial use.
 
