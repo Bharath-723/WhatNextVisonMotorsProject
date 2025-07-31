@@ -106,7 +106,7 @@ Custom objects created:
 ## 📎 Submitted By:
 
 **M. Bharath**  
-Salesforce Virtual Internship Program Participant  
+Salesforce Virtual Intern  
 📧 [bharathbalu7231@gmail.com]  
 🔗 [www.linkedin.com/in/bharath-m-b8a456287]
 
