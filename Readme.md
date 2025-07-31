@@ -100,7 +100,7 @@ Custom objects created:
 
 ---
 
-## 📎 Author
+## 📎 Submitted By:
 
 **M. Bharath**  
 Salesforce Virtual Internship Program Participant  
