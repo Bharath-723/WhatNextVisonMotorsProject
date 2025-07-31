@@ -112,3 +112,6 @@ Salesforce Virtual Internship Program Participant
 
 ---
 
+## Conclusion:
+This project showcases how Salesforce can streamline operations in the automotive industry through automation, smart workflows, and efficient data management. It helped me apply key Salesforce skills like flows, Apex, and batch jobs to solve real-world CRM challenges in a scalable way.
+
